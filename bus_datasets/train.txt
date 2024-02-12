@@ -1,0 +1,3 @@
+data/obj_train_data/bus2.jpg
+data/obj_train_data/bus3.jpg
+data/obj_train_data/bus4.jpg
